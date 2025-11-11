@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hello 🌺<br>💻 I'm a computer Science student specializing in software development<br>🔒 Passionate about cybersecurity, automation, and AI<br>🚀 Focused on building secure, efficient, and innovative systems<br>🌐 Exploring innovation through hands-on projects and challenges
+Hello 🌺<br><br>💻 I'm a computer Science student specializing in software development<br>🔒 Passionate about cybersecurity, automation, and AI<br>🚀 Focused on building secure, efficient, and innovative systems<br>🌐 Exploring innovation through hands-on projects and challenges
 
 
 # 💻 Tech Stack:
@@ -10,7 +10,7 @@ Hello 🌺<br>💻 I'm a computer Science student specializing in software devel
 ![](https://nirzak-streak-stats.vercel.app/?user=SNDS-1&theme=dracula&hide_border=false)<br/>
 
 
-### ✍️ Random Dev Quote
+### ✍️ Reminder:
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
