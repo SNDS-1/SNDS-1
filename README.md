@@ -24,7 +24,7 @@ Focused on understanding how IT environments are designed, configured, maintaine
 
 - [Active Directory & OPNsense Lab](https://github.com/SNDS-1/lab-active-directory-opnsense)
 - [Password Manager — Python](https://github.com/SNDS-1/Password-Manager)
-- [Log-Based Intrusion Detection System — Python](https://github.com/SNDS-1/log-based-intrus)
+- [Log-Based Intrusion Detection System — Python](https://github.com/SNDS-1/Intrusion-detection-system-log-analyser)
 
 
 # 💻 Tech Stack:
