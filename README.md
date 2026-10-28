@@ -1,6 +1,19 @@
 
-# 💫 About Me:
-Hello 🌺<br><br>💻 I'm a computer Science student <br>🔒 Passionate about cybersecurity, automation, and AI<br>🚀 Focused on building secure, efficient, and innovative systems<br>🌐 Exploring innovation through hands-on projects and challenges
+## 👨‍💻 Professional Profile
+
+IT professional in training with an interest in cybersecurity, systems and network administration, and IT infrastructure.
+
+### 🔎 Technical Interests
+
+- 🔐 **Cybersecurity:** Information security, security controls, and risk mitigation.
+- 🖥️ **Systems Administration:** Operating systems, identity and access management, system configuration, and maintenance.
+- 🌐 **Networking:** Network infrastructure, network services, connectivity, and troubleshooting.
+- ⚙️ **IT Infrastructure:** Infrastructure management, access control, and system reliability.
+- 💻 **Programming & Automation:** Python and scripting for practical IT applications.
+
+### 📌 Professional Development
+
+I develop my technical knowledge through hands-on projects, technical documentation, and continuous learning, with a focus on building a solid foundation in IT operations, infrastructure, and security.
 
 
 # 💻 Tech Stack:
