@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hello 🌺<br><br>💻 I'm a computer Science student specializing in software development<br>🔒 Passionate about cybersecurity, automation, and AI<br>🚀 Focused on building secure, efficient, and innovative systems<br>🌐 Exploring innovation through hands-on projects and challenges
+Hello 🌺<br><br>💻 I'm a computer Science student <br>🔒 Passionate about cybersecurity, automation, and AI<br>🚀 Focused on building secure, efficient, and innovative systems<br>🌐 Exploring innovation through hands-on projects and challenges
 
 
 # 💻 Tech Stack:
