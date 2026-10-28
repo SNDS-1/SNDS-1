@@ -22,9 +22,9 @@ Focused on understanding how IT environments are designed, configured, maintaine
 
 ## 📂 Projects
 
-My repositories contain practical projects and technical exercises focused on IT infrastructure, programming, and security-related topics.
-
-Each project is an opportunity to strengthen my technical understanding, document implementation decisions, test results, and identify areas for improvement.
+- [Active Directory & OPNsense Lab](LIEN_DU_DEPOT)
+- [Password Manager — Python](LIEN_DU_DEPOT)
+- [Log-Based Intrusion Detection System — Python](LIEN_DU_DEPOT)
 
 
 
